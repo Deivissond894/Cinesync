@@ -1,0 +1,5 @@
+.expo
+node_modules
+.env
+cinesync-firebase.json
+.DS_Store
